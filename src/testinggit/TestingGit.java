@@ -11,15 +11,14 @@ package testinggit;
  */
 
 
-
 public class TestingGit {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         
+        Movie carrie = new Movie("Carrie", "Stephen King", 180);
     }
     
 }
